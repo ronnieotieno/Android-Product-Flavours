@@ -9,4 +9,4 @@ If you need to develop more than one app for one project one might think of buil
 |<img src="screenshots/rider2.png" width=200/>|<img src="screenshots/client2.png" width=200/>|
 |:----:|:----:|
 
-Follow the medium article [Hilt](https://otieno.medium.com/adding-product-flavors-to-android-309f965e3d9d)
+Follow the medium article [HERE](https://otieno.medium.com/adding-product-flavors-to-android-309f965e3d9d)
