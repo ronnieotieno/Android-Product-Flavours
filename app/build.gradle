@@ -63,15 +63,24 @@ android {
             java {
                 srcDirs 'src/Client/java'
             }
+            res {
+                srcDirs 'src/Client/res'
+            }
         }
         Rider {
             java {
                 srcDirs 'src/Rider/java'
             }
+            res {
+                srcDirs 'src/Rider/res'
+            }
         }
         Owner {
             java {
                 srcDirs 'src/Owner/java'
+            }
+            res {
+                srcDirs 'src/Owner/res'
             }
         }
     }
